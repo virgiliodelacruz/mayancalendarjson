@@ -7,7 +7,7 @@ namespace HelloWorld
 {
     class generacalendario
     {
-        static void create()
+        public  void create()
         {
             DateTime from = new DateTime(1919, 12, 31);
             DateTime thru = new DateTime(2090, 12, 31);

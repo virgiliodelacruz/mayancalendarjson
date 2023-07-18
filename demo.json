@@ -1,0 +1,63 @@
+  {
+    "year": 1919,
+    "month": 12,
+    "day": 31,
+    "dayofweek": 3,
+    "daysign": "1-Imix",
+    "trecena": "1-Imix",
+    "lord": 7
+  },
+  {
+    "year": 1920,
+    "month": 1,
+    "day": 1,
+    "dayofweek": 4,
+    "daysign": "2-Ik",
+    "trecena": "1-Imix",
+    "lord": 8
+  },
+  {
+    "year": 1920,
+    "month": 1,
+    "day": 2,
+    "dayofweek": 5,
+    "daysign": "3-Akbal",
+    "trecena": "1-Imix",
+    "lord": 9
+  },
+  {
+    "year": 1920,
+    "month": 1,
+    "day": 3,
+    "dayofweek": 6,
+    "daysign": "4-Kan",
+    "trecena": "1-Imix",
+    "lord": 1
+  },
+  {
+    "year": 1920,
+    "month": 1,
+    "day": 4,
+    "dayofweek": 0,
+    "daysign": "5-Chicchan",
+    "trecena": "1-Imix",
+    "lord": 2
+  },
+  {
+    "year": 1920,
+    "month": 1,
+    "day": 5,
+    "dayofweek": 1,
+    "daysign": "6-Cimi",
+    "trecena": "1-Imix",
+    "lord": 3
+  },
+  {
+    "year": 1920,
+    "month": 1,
+    "day": 6,
+    "dayofweek": 2,
+    "daysign": "7-Manik",
+    "trecena": "1-Imix",
+    "lord": 4
+  }
